@@ -213,5 +213,5 @@ The analysis also emphasizes careful interpretation of trends, particularly wher
 
 ## Project Author
 
-**Karan Singh**
+**Mayur Kale**
 Data Analytics Portfolio Project using Microsoft Excel
